@@ -1,7 +1,7 @@
 export default {
     title: "Homepage",
-    titleSuffix: " | Pacamara ☕",
-    description: "Aromatic brew, pure indulgence, exquisite satisfaction.Default description",
+    titleSuffix: " | WesWrites ☕",
+    description: "Where my writings happens",
     defaultOgImage: "./defaultog.jpg",
     latestPosts: 3,
     postsPerPage: 3,
@@ -9,12 +9,16 @@ export default {
     social: {
         'dribbble': false,
         'facebook': false,
-        'github': 'https://github.com/palmiak',
-        'instagram': false,
+        'github': 'https://github.com/valerio-pizzichini',
+        'instagram': 'https://www.instagram.com/valerio.pizzichini',
         'mastodon': false,
         'pinterest': false,
         'skype': false,
-        'twitter': 'https://twitter.com/palmiak_fp'
-
+        'twitter': false,
+        'linkedin': 'https://linkedin.com/in/valerio-pizzichini-b9127998'
+    },
+  license: {
+    "link": "https://creativecommons.org/licenses/by-nc/4.0",
+    "label": "CC BY-NC 4.0"
     }
 }
