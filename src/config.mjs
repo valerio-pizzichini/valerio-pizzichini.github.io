@@ -1,7 +1,7 @@
 export default {
     title: "Homepage",
     titleSuffix: " | WesWrites ☕",
-    description: "Where my writings happens",
+    description: "Where my writings happen",
     defaultOgImage: "./defaultog.jpg",
     latestPosts: 3,
     postsPerPage: 3,
